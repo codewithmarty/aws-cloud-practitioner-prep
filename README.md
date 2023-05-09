@@ -24,3 +24,5 @@
 ### Domain 4: Billing and Pricing
 
 - [4.1 Various AWS Pricing Models](domain-4/4.1-various-pricing-models.md)
+- [4.2 AWS Account Structures for Billing and Pricing](domain-4/4.2-aws-account-structures-biling-and-pricing.md)
+- [4.3 Resources Available for Billing Support](domain-4/4.3-resources-available-for-billing-support.md)
