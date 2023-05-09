@@ -13,3 +13,14 @@
 - [2.2 AWS Cloud Security and Compliance Concepts](domain-2/2.2-aws-cloud-security-and-compliance-concepts.md)
 - [2.3 AWS Access Management Capabilities](domain-2/2.3-aws-access-management-capabilities.md)
 - [2.4 Resources for Security Support](domain-2/2.4-resources-for-security-support.md)
+
+### Domain 3: Technology
+
+- [3.1 Methods of Deploying and Operating in the AWS Cloud](domain-3/3.1-methods-of-deploying-and-operating-in-the-aws-cloud.md)
+- [3.2 AWS Global Infrastructure](domain-3/3.2-aws-global-infrastructure.md)
+- [3.3 Core AWS Services](domain-3/3.3-core-aws-services.md)
+- [3.4 Resources for Technology Support](domain-3/3.4-resources-for-technology-support.md)
+
+### Domain 4: Billing and Pricing
+
+- [4.1 Various AWS Pricing Models](domain-4/4.1-various-pricing-models.md)
